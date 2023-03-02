@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Home_Work_3</string>
+    <string name="Curretn">Current Policies</string>
+    <string name="Policies">Policies</string>
+    <string name="Brand">Brand</string>
+    <string name="Origin">Origin Country</string>
+    <string name="Product">Product Category</string>
+    <string name="et_policy">Policy</string>
+    <string name="export">Export as CSV</string>
+    <string name="next_menu">Next menu</string>
 </resources>
